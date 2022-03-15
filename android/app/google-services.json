@@ -1,0 +1,243 @@
+{
+  "project_info": {
+    "project_number": "567606593355",
+    "firebase_url": "https://oxoo-12.firebaseio.com",
+    "project_id": "oxoo-12",
+    "storage_bucket": "oxoo-12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567606593355:android:a056f25b135f88244fcace",
+        "android_client_info": {
+          "package_name": "com.oxoo.spagreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567606593355-0krr4i1o6ahf82omo30i3rslveklr77c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxoo.spagreen",
+            "certificate_hash": "1bee1ddd0d73c99333dabef8ef53f6f6b3aadce6"
+          }
+        },
+        {
+          "client_id": "567606593355-37a4205ahje39im3m9jbg991vp07ffpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxoo.spagreen",
+            "certificate_hash": "7945f273a2a85eb2b0c9d5bffda063f3fe22bcaf"
+          }
+        },
+        {
+          "client_id": "567606593355-611sdej2blleo8uqf60fl1v121og52e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxoo.spagreen",
+            "certificate_hash": "2ca52ac201a958b5e81f8351c59237b696be7f13"
+          }
+        },
+        {
+          "client_id": "567606593355-6209filt7j2n1rn4c27squ3vo90t941t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxoo.spagreen",
+            "certificate_hash": "df592314468b53f48ba061eec0a8555fe3c3ae16"
+          }
+        },
+        {
+          "client_id": "567606593355-8ufkc5mrd3njb40dfkitpa2u9b59ar9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxoo.spagreen",
+            "certificate_hash": "eb199169e23c908dbe589351f074c2b699f8a9c1"
+          }
+        },
+        {
+          "client_id": "567606593355-92d4p5jiu4mnn63s58nkl2adluv64k2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxoo.spagreen",
+            "certificate_hash": "a27c168a0985947bf1041b4f563a848fde0f0ce4"
+          }
+        },
+        {
+          "client_id": "567606593355-akoahef7l4f7vrbf3imehmc415lt2oeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxoo.spagreen",
+            "certificate_hash": "a05a9c175aaa46fbd50b5daa0ac1a1147967fc70"
+          }
+        },
+        {
+          "client_id": "567606593355-dopiib71gslnsi7kdcaqpi9at67bnvsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxoo.spagreen",
+            "certificate_hash": "9380f1659f3ff444554496c1e6c955362547b600"
+          }
+        },
+        {
+          "client_id": "567606593355-ik4ga4pm4go73di2lpba6ruscj8q4pmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxoo.spagreen",
+            "certificate_hash": "1d3b308ee332147ec234da3bc7c1048265bec424"
+          }
+        },
+        {
+          "client_id": "567606593355-o6cefo7aus6i0si0bmb7ito843fhaopd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxoo.spagreen",
+            "certificate_hash": "3293f3081991908b3d81c315312332d390090e18"
+          }
+        },
+        {
+          "client_id": "567606593355-sbepqqp2leje3ctqcrsflikp11cd4dce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxoo.spagreen",
+            "certificate_hash": "f15ad5bba8add856ae3a4c13e47ea35ffbf7ab99"
+          }
+        },
+        {
+          "client_id": "567606593355-vgt4v0k02bh9d0r2glu9kf4h7n4ko7pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhOW8xKNejL0Z-8drXzIWevKpc5xq9BC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567606593355-vgt4v0k02bh9d0r2glu9kf4h7n4ko7pb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567606593355-1tgac27sghg3ec51a257t4490011t9rn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spagreen.zamoo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567606593355:android:0e565f24013068094fcace",
+        "android_client_info": {
+          "package_name": "com.oxootv.spagreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567606593355-1n53afu01510vlrmrc1npmilbupeadjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxootv.spagreen",
+            "certificate_hash": "f15ad5bba8add856ae3a4c13e47ea35ffbf7ab99"
+          }
+        },
+        {
+          "client_id": "567606593355-i71fmrm4vttsjcn520lha8q0a68f9ai3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxootv.spagreen",
+            "certificate_hash": "1b2c37df7c385671d491c2d2488470f88d9b82bb"
+          }
+        },
+        {
+          "client_id": "567606593355-llp63lb73pv6q6tcefahtk05gub6278t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxootv.spagreen",
+            "certificate_hash": "eb199169e23c908dbe589351f074c2b699f8a9c1"
+          }
+        },
+        {
+          "client_id": "567606593355-mdkr0vbqgu4tc57oshh5j2d6nfi3cnk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxootv.spagreen",
+            "certificate_hash": "e1dd46ad7feb4ada0e26524c07b540bf297b7517"
+          }
+        },
+        {
+          "client_id": "567606593355-qh13e9inp29tfqnpg792fomkckrqvqh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxootv.spagreen",
+            "certificate_hash": "9380f1659f3ff444554496c1e6c955362547b600"
+          }
+        },
+        {
+          "client_id": "567606593355-qmt5sa1c4csjjeo3ju2skkd2j2iu0ife.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxootv.spagreen",
+            "certificate_hash": "7945f273a2a85eb2b0c9d5bffda063f3fe22bcaf"
+          }
+        },
+        {
+          "client_id": "567606593355-rg895oheq2ufr437prg6fntput45f0i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxootv.spagreen",
+            "certificate_hash": "a05a9c175aaa46fbd50b5daa0ac1a1147967fc70"
+          }
+        },
+        {
+          "client_id": "567606593355-te5gdaucb4pqki5ja4a0bltkok97l068.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxootv.spagreen",
+            "certificate_hash": "b6f173b0fd0d041832ec8d70593bc89b048e102f"
+          }
+        },
+        {
+          "client_id": "567606593355-vi7eclatiuoiq6bagmusosdb2g1kq6ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxootv.spagreen",
+            "certificate_hash": "df592314468b53f48ba061eec0a8555fe3c3ae16"
+          }
+        },
+        {
+          "client_id": "567606593355-vgt4v0k02bh9d0r2glu9kf4h7n4ko7pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhOW8xKNejL0Z-8drXzIWevKpc5xq9BC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567606593355-vgt4v0k02bh9d0r2glu9kf4h7n4ko7pb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567606593355-1tgac27sghg3ec51a257t4490011t9rn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spagreen.zamoo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

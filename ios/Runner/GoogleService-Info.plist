@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>376842279696-8jvogge8sfloahblkm8ll5h9s3f4iq10.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.376842279696-8jvogge8sfloahblkm8ll5h9s3f4iq10</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>376842279696-34c7n0h8t3ktlq29l2u4pnac18hf2il1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDaLxMW9j70CMNqKfe_z_mOGzhLeVWYnjw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>376842279696</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.oxooDemo</string>
+	<key>PROJECT_ID</key>
+	<string>zamoo-1767c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zamoo-1767c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:376842279696:ios:08a2f22b41d30120a5e395</string>
+	<key>DATABASE_URL</key>
+	<string>https://zamoo-1767c.firebaseio.com</string>
+</dict>
+</plist>
